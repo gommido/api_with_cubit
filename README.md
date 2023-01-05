@@ -2,6 +2,8 @@
 
 api using bloc cubit
 
+[![screenshot](https://i.postimg.cc/mkSSW1RW/1.jpg)](https://postimg.cc/2LVW46V0)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
